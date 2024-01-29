@@ -1,0 +1,36 @@
+{
+    "categories": [
+      {
+        "title": "Technology"
+      },
+      {
+        "title": "Science"
+      },
+      {
+        "title": "Sports"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Introduction to Artificial Intelligence",
+        "category": "Technology"
+      },
+      {
+        "title": "The Importance of Quantum Computing",
+        "category": "Technology"
+      },
+      {
+        "title": "Advancements in Genetic Engineering",
+        "category": "Science"
+      },
+      {
+        "title": "Exploring the Solar System",
+        "category": "Science"
+      },
+      {
+        "title": "Top 10 Moments in Sports History",
+        "category": "Sports"
+      }
+    ]
+  }
+  
